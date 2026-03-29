@@ -4,9 +4,6 @@ In diesem Projekt wurde ein Sales-Datensatz analysiert und in Form eines interak
 Verwendete Tools
 Power BI
 SQL (Datenabfrage)
-Excel / CSV Dataset
-
-(ak bol dataset zo SQL view → napíš SQL)
 
 Dashboard Inhalte
 
@@ -36,7 +33,7 @@ Geschäftsdaten zu interpretieren
 KPIs zu visualisieren
 Zusammenhänge verständlich darzustellen
 Management-Dashboards zu erstellen
-Autor
 
+Autor
 Jan Gombala
-Junior Data Analyst (SQL | Power BI)
+
