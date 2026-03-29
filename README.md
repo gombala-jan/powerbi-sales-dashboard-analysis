@@ -41,4 +41,4 @@ Jan Gombala
 
 Der vollständige Projektbericht ist hier verfügbar:
 
-👉 [Projekt öffnen](SQL_Arbeitsprobe_PowerBI_Dashboard_Jan_Gombala.pdf)
+👉 [Projekt öffnen](Arbeitsprobe_PowerBI_Dashboard_Jan_Gombala.pdf)
