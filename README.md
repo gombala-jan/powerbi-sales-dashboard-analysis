@@ -37,3 +37,8 @@ Management-Dashboards zu erstellen
 Autor
 Jan Gombala
 
+## Projekt ansehen
+
+Der vollständige Projektbericht ist hier verfügbar:
+
+👉 [Projektbericht als PDF öffnen](SQL_Arbeitsprobe_Datenanalyse_Jan_Gombala.pdf)
